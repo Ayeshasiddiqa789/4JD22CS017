@@ -1,21 +1,25 @@
 # 4JD22CS017
 
-Small project repository — frontend test submissions and middleware samples.
+Portfolio website for Ayesha Siddiqa.
 
-Quick notes
+## What’s included
 
-- This repo contains short demo files (frontend test submission and a logging middleware placeholder).
-- No build system — files are small and demonstrative.
+- `index.html` redirects to the portfolio landing page.
+- `portfolio.html` contains the full single-page portfolio built from the resume details.
+- The page includes sections for About, Skills, Education, Experience, Projects, Certifications, Achievements, and Contact.
 
-How to preview
+## How to open
 
-1. Open any HTML file included in the repo with a browser (if present).
-2. For node or server examples, follow the specific folder README if added.
+1. Open `index.html` in a browser, or
+2. Open `portfolio.html` directly if you want to skip the redirect.
 
-Contributing
+## Contact links
 
-- Add a single project per folder with its own README and minimal run instructions.
+- LinkedIn: https://www.linkedin.com/in/ayesha-siddiqa-60980627b/
+- GitHub: https://github.com/Ayeshasiddiqa789
+- Email: siddiqaayesha05439@gmail.com
 
-License
+## Notes
 
-Add a license file if you want to set reuse terms.
+- This is a static HTML portfolio, so no build step is required.
+- The repository may also contain unrelated sample files from earlier submissions.
